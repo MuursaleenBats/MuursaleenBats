@@ -1,3 +1,4 @@
+<h1 align="center">Hii 👋, I am Mursaleen Batatawala</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -97,9 +98,12 @@ Software development professional with experience in developing and designing we
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuursaleenBats&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuursaleenBats&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=MuursaleenBats&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="Mursaleen"></img>
+<div><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MuursaleenBats&theme=dark&background=000000)](https://git.io/streak-stats" alt="mursaleen" /></div>
+
+<div><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MuursaleenBats&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="mursaleen" /></div>
+
+<div>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuursaleenBats&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="mursaleen" /></div>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MuursaleenBats&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="Mursaleen"></img> -->
 
 
 <!--
