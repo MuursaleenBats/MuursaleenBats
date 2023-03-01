@@ -98,11 +98,11 @@ Software development professional with experience in developing and designing we
 ---
 
 ### :fire: My Stats :
-<div><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MuursaleenBats&theme=dark&background=000000)](https://git.io/streak-stats" alt="mursaleen" /></div></br>
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MuursaleenBats&theme=dark&background=000000)](https://git.io/streak-stats" alt="mursaleen" />
 
-<div><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MuursaleenBats&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="mursaleen" /></div></br>
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MuursaleenBats&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="mursaleen" />
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuursaleenBats&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="mursaleen" /></div>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuursaleenBats&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="mursaleen" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=MuursaleenBats&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="Mursaleen"></img> -->
 
 
